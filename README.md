@@ -14,7 +14,7 @@ I build useful digital experiences and practical software, from full-stack web a
 | --- | --- |
 | [Thrifters](https://github.com/Fabasshirlab/Thrifters) | A database-backed web application built for my Web Application and Databases coursework. |
 | [Petcare Management](https://github.com/adi-afra/pet-management) | A team shelter app; I worked on pet records and CRUD features. |
-| [JavaScript games](https://github.com/Fabasshirlab/Jscript) | Browser-based games and experiments, including Craps Casino, Dino Jump and Shooters Path. |
+| [JavaScript games](https://github.com/Fabasshirlab/Jscript) | Browser-based games and experiments, including Craps Casino, Dino Jump and smaller JavaScript exercises. |
 | [C-library](https://github.com/Fabasshirlab/C-library) | My C++ practice repository. |
 
 ## What I work with
