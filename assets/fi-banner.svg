@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">FI — Fabasshir Islam</title>
+  <desc id="desc">A dark, minimal banner with an FI monogram, a lime accent, and Fabasshir Islam's name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#111a20"/>
+      <stop offset="0.55" stop-color="#101b24"/>
+      <stop offset="1" stop-color="#142329"/>
+    </linearGradient>
+    <linearGradient id="track" x1="0" x2="1">
+      <stop offset="0" stop-color="#b5ff47" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#b5ff47" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#65f2d6" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M0 205 C240 180 380 245 610 170 S960 70 1200 105" fill="none" stroke="url(#track)" stroke-width="2"/>
+  <path d="M0 220 C240 195 380 260 610 185 S960 85 1200 120" fill="none" stroke="#d0edb9" stroke-opacity=".11" stroke-width="1"/>
+  <text x="72" y="163" fill="#f1f5ef" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="112" font-weight="800" letter-spacing="-13">FI</text>
+  <rect x="159" y="172" width="86" height="8" rx="2" fill="#b5ff47"/>
+  <rect x="333" y="54" width="2" height="152" fill="#b5ff47" fill-opacity=".7"/>
+  <text x="378" y="105" fill="#b5ff47" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="4">DEVELOPER / CO-FOUNDER</text>
+  <text x="375" y="159" fill="#f1f5ef" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Fabasshir Islam</text>
+  <text x="378" y="195" fill="#9eafa9" font-family="Arial, Helvetica, sans-serif" font-size="20">Building useful digital experiences.</text>
+  <circle cx="1116" cy="52" r="5" fill="#b5ff47"/>
+  <text x="1133" y="58" fill="#9eafa9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">UK</text>
+</svg>
