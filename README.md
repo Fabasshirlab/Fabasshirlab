@@ -1,3 +1,5 @@
+![FI — Fabasshir Islam](./assets/fi-banner.svg)
+
 # Fabasshir Islam
 
 **Developer · Computer Science student · Co-Founder at Kaikix**
